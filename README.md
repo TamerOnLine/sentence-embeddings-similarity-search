@@ -69,3 +69,9 @@ You can test the system by adding new sentences and running similarity searches 
 
 ## License
 This project is licensed under the MIT License.
+
+## Contributing
+Feel free to submit issues or pull requests. Contributions are welcome!
+
+## Contact
+For any questions or feedback, reach out at [info@tameronline.com](mailto:info@tameronline.com).
